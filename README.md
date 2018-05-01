@@ -69,3 +69,7 @@ Refer to `LICENSE.libmd5-rfc.txt` for the full text.
 - Modifications to code by [chenzw95](https://github.com/chenzw95), [Pirater12](https://github.com/pirater12), and [gnmmarechal](https://github.com/gnmmarechal)
 - Custom boot animation by [mariohackandglitch](https://github.com/mariohackandglitch)
 - issue_template.md based off of the issue_template made by [Robz8 in TWLoader's repo](https://github.com/Robz8/TWLoader/blob/master/.github/issue_template.md)
+
+
+
+FOR HELP VIST : https://discord.gg/ZPzm33t
