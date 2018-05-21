@@ -18,7 +18,7 @@ For HBL/Rosalina Users:
 3. Select latest stable version.
 
 ## To possibly work on
-* N/A
+source files
 
 ## Compiling Requirements
 
