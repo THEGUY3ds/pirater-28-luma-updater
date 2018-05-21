@@ -62,14 +62,13 @@ Refer to `LICENSE.libmd5-rfc.txt` for the full text.
 ## Credits
 
 - Luma3DS builds (and development) by [Aurora Wright](https://github.com/AuroraWright), [TuxSH](https://github.com/TuxSH) and [other contributors](https://github.com/AuroraWright/Luma3DS/graphs/contributors)
-- Hourlies built and provided by [astronautlevel](https://github.com/astronautlevel2)
 - Makefiles are somewhat derived by stripping down [Steveice10](https://github.com/Steveice10)'s buildtools
 - CIA jingle by [Cydon @ FreeSound](https://www.freesound.org/people/cydon/)
 - Original code by [Hamcha](https://github.com/Hamcha/lumaupdate)
 - Modifications to code by [chenzw95](https://github.com/chenzw95), [Pirater12](https://github.com/pirater12), and [gnmmarechal](https://github.com/gnmmarechal)
 - Custom boot animation by [mariohackandglitch](https://github.com/mariohackandglitch)
 - issue_template.md based off of the issue_template made by [Robz8 in TWLoader's repo](https://github.com/Robz8/TWLoader/blob/master/.github/issue_template.md)
-- kartik for his impressive luma nightly builds
+- [kartik] for his impressive luma nightly builds [https://github.com/Pirater12/luma-nightlies/tree/63-luma3ds-3477beb05c55a35b5fa82d3698b95fda8a8f0576]
 
 
 FOR HELP VIST : https://discord.gg/ZPzm33t
