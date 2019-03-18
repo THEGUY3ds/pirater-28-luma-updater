@@ -71,4 +71,4 @@ Refer to `LICENSE.libmd5-rfc.txt` for the full text.
 - [kartik] for his impressive luma nightly builds [https://github.com/Pirater12/luma-nightlies/tree/63-luma3ds-3477beb05c55a35b5fa82d3698b95fda8a8f0576]
 
 
-FOR HELP VIST : https://discord.gg/ZPzm33t
+FOR HELP VIST : https://discordapp.com/invite/9SjX2SM
